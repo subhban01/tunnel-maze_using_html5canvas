@@ -4,3 +4,7 @@
 Checkout the <a href="https://subhban01.github.io/tunnel-maze_canvas/">DEMO</a>
 
 ![alt text](./canvas.png)
+
+To do:
+-------
+1. Add more shapes
